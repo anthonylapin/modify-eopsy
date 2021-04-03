@@ -1,6 +1,6 @@
-##Lab 1 of Operating Systems University Course
+# Lab 1 of Operating Systems University Course
 
-###TASK:
+### TASK:
 
 Write a script modify with the following syntax:
 - modify [-r] [-l|-u] <dir/file names...>
